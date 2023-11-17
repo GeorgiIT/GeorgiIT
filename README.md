@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi</h1>
-<h3 align="center">I'm Georgi, a passionate individual currently navigating the world of software testing and QA automation.</h3>
+<h3 align="center">I'm a passionate individual currently navigating the world of software testing and QA automation.</h3>
 
 - 🔭 I’m currently working on **Engaging in various Manual Testing tasks as a freelance QA professional.**
 
